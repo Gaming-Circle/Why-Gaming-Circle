@@ -1,6 +1,6 @@
 # Why-Gaming-Circle
 <hr> 
-<img src="https://i.ibb.co/5K2St0s/BG.png" width="100%" height="300"> 
+<img src="https://i.ibb.co/5K2St0s/BG.png" width="100%" height="350"> 
 
 <h2>What is Gaming Circle ?</h2> 
 <h3>Gaming Circle, the place where Gamers and Programmmers from around the world get together
