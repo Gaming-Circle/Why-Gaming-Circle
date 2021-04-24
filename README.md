@@ -14,4 +14,4 @@ to clasp technology and gaming to a whole new intensity.</h3>
 <a href="https://www.tiktok.com/@gamingcircle2k20?lang=en" target="_blank">Tiktok</a> |
 <a href="https://discord.gg/TsjzqFtV" target="_blank">Discord</a>
 
-For further clarifications mail us at <a href="mailto:gamingcircle2k20@gmail.com">Gamingcircle2k20@gmail.com</a>
+For further clarifications mail us at <a href="mailto:gamingcircle2k20@gmail.com">Gamingcircle2k20@gmail.com</a> 
